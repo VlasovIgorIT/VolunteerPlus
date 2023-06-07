@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875698497034",
+    "firebase_url": "https://volunteerplus-9b8c9-default-rtdb.firebaseio.com",
+    "project_id": "volunteerplus-9b8c9",
+    "storage_bucket": "volunteerplus-9b8c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875698497034:android:5970b7cce91d23afe361f3",
+        "android_client_info": {
+          "package_name": "com.example.volunteerplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875698497034-ib2pqvl4vu0cbfnat9d30d90vh0dfum9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_G3dgKNUE5HxsMrsth0IeRoJSxC3tWaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875698497034-ib2pqvl4vu0cbfnat9d30d90vh0dfum9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
