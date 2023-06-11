@@ -55,6 +55,7 @@ public class LogInFragment extends Fragment {
                                     // Sign in success, update UI with the signed-in user's information
                                     Log.d("LogInFragment", "signInWithEmail:success");
                                     FirebaseUser user = mAuth.getCurrentUser();
+                                    Navigation.findNavController(view).navigate(R.id.action_logInFragment_to_eventsListOrgFragment);
                                 } else {
                                     // If sign in fails, display a message to the user.
                                     Log.w("LogInFragment", "signInWithEmail:failure", task.getException());
